@@ -1,6 +1,6 @@
 # GUI
 
-* This is a GUI Editor that let you add any shape you like and define their properties with easy operation. 
+* This is a GUI Editor that let you add any shapes you like and define their properties with easy operation. 
 * You could either use basic customization panel to add your shapes to the canvas, or using advanced customization with easier
 and clearer operation.
 
